@@ -3,7 +3,7 @@
 
 # UNIF
 
-This repository contains the archived source code of UNIF, a unification algorithm developped in 1974 at IRIA by Gérard Huet. 
+This repository contains the archived source code of UNIF, a unification algorithm developped in 1974 at IRIA by [Gérard Huet](https://pauillac.inria.fr/~huet/). 
 UNIF source code can be discovered via two different angles, materialized as two different branches. 
 
 ## Main Branch
