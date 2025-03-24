@@ -1,3 +1,6 @@
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/mathfichen/UNIF/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/mathfichen/UNIF)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:4190980128ff23cfa288d940de35df3c1da83c08/)](https://archive.softwareheritage.org/swh:1:dir:4190980128ff23cfa288d940de35df3c1da83c08;origin=https://github.com/mathfichen/UNIF;visit=swh:1:snp:12618153aaf40d30fbadab2eadafa7b6d8d4be27;anchor=swh:1:rev:be7b7dae60fdda0be5b2fa3860f41055a361b8ad)
+
 # UNIF
 
 This repository contains the archived source code of UNIF, a unification algorithm developped in 1974 at IRIA by Gérard Huet. 
