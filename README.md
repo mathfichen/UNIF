@@ -7,9 +7,9 @@ UNIF source code can be discovered via two different angles, materialized as two
 
 The main branch contains the original materials as well as the metada linked to UNIF. 
 The original finds are stored in the Depository containing the raw materials.
-- Folder [raw materials](./raw_materials) is for the original source code materials, as they have been found or submitted, as well as some ancillary documents
--   	[source_code](./raw_materials/source_code) contains a scanned listing of the UNIF source code as well as a README file containing an execution example, both from 1974. 
--   	[additional_material](./raw_materials/additional_material) contains the [historical publication](./raw_materials/additional_material/unification_algorithm_typed_lamda_calc.pdf) _A unification algorithm for typed lambda-calculus, 
+- Folder [raw materials](./raw_materials) is for the original [source code](./raw_materials/source_code) materials, as they have been found or submitted, as well as some [ancillary documents](./raw_materials/additional_material). 
+  - [source_code](./raw_materials/source_code) contains a scanned listing of the UNIF source code as well as a README file containing an execution example, both from 1974. 
+  - [additional_material](./raw_materials/additional_material) contains the [historical publication](./raw_materials/additional_material/unification_algorithm_typed_lamda_calc.pdf) _A unification algorithm for typed lambda-calculus, 
 Theoretical Computer Science 1 (1975) 27-57. _ on which UNIF was based, as well as some [personnal recollections](./raw_materials/additional_material/GH_memoires.pdf) from Gérard Huet. 
   
 - Folder [metadata](/.metadata) holds various files with meta information to be updated throughout the process. 
